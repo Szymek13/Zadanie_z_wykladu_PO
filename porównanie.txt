@@ -1,0 +1,2 @@
+Na przykładzie pliku tekstowego 'alice30.txt' program 'TreeSetDemo.java' wykonał 
+zadanie wolniej niż program 'HashSetDemo.java' o 45 milisekund.
